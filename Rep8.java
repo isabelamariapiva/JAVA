@@ -2,7 +2,7 @@
  8-Leia a idade de cinco pessoas e exiba a soma e a média das idades. 
 */
 import java.util.Scanner;
-public class Somamedia5
+public class Rep8
 {
 	public static void main(String[] args) {
 	    Scanner scanner = new Scanner (System.in);
