@@ -4,7 +4,7 @@ inteiros e verifique se existem elementos repetidos.
 Mostrar a matriz e os números repetidos.
 */
 
-public class Matriz2
+public class Matriz3
 {
     public static void main(String[] args) {
     ///defina a matriz 5X5
