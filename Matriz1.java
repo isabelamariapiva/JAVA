@@ -3,7 +3,6 @@ matriz1- Desenvolver um programa que leia uma matriz 4 X 4
    a) Verificar o número de linhas e colunas
    b) Mostrar a matriz  formatada
 */
-
 public class Matriz1
 {
     public static void main(String[] args) {
